@@ -33,4 +33,4 @@ jobs:
         path: ./artifacts/hello.txt
 
     - name: read hello.txt
-      run: cat ./artifacts
+      run: cat ./artifacts/hello.txt
